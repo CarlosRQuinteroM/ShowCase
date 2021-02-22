@@ -284,7 +284,7 @@ body{
 
 .Agua{
     position: absolute;
-    width: 180px; 
+    width: 170px; 
      height: 100px;
      background-color: transparent;
      z-index: 2;
@@ -328,3 +328,36 @@ body{
     content: icon;
 }
 
+.Chips{
+    position: absolute;
+    width: 170px; 
+     height: 100px;
+     background-color: transparent;
+     z-index: 2;
+     top: 569px;
+     left: 992px ;
+}
+#chips1{
+    position:absolute;
+    left: 0px;
+    z-index: 3;
+    content: icon;
+}
+#chips2{
+    position:absolute;
+    left: 20px;
+    z-index: 3;
+    content: icon;
+}
+#chips3{  
+    position:absolute;
+    left: 60px;
+    z-index: 3;
+    content: icon;
+}
+#chips4{
+    position:absolute;
+    left: 105px;
+    z-index: 3;
+    content: icon;
+}
