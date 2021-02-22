@@ -241,3 +241,44 @@ body{
     z-index: 3;
     content: icon;
 }
+
+.Mermelada{
+    position: absolute;
+    width: 220px; 
+     height: 100px;
+     background-color: transparent;
+     z-index: 2;
+     top: 569px;
+     left: 610px ;
+}
+#mermelada1{
+    position:absolute;
+    left: 9px;
+    z-index: 3;
+    content: icon;
+}
+#mermelada2{
+    position:absolute;
+    left: 40px;
+    z-index: 3;
+    content: icon;
+}
+#mermelada3{  
+    position:absolute;
+    left: 75px;
+    z-index: 3;
+    content: icon;
+}
+#mermelada4{
+    position:absolute;
+    left: 120px;
+    z-index: 3;
+    content: icon;
+}
+#mermelada5{
+    position:absolute;
+    left: 162px;
+    z-index: 3;
+    content: icon;
+}
+
