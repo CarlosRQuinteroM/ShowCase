@@ -111,3 +111,42 @@ body{
     content: icon;
 }
 
+.Queso{
+    position: absolute;
+    width: 160px; 
+     height: 100px;
+     background-color: transparent;
+     z-index: 2;
+     top: 435px;
+     left: 770px ;
+}
+#queso1{
+    position:absolute;
+    left: -1px;
+    z-index: 3;
+    content: icon;
+}
+#queso2{
+    position:absolute;
+    left: 8px;
+    z-index: 3;
+    content: icon;
+}
+#queso3{  
+    position:absolute;
+    left: 34px;
+    z-index: 3;
+    content: icon;
+}
+#queso4{
+    position:absolute;
+    left: 60px;
+    z-index: 3;
+    content: icon;
+}
+#queso5{
+    position:absolute;
+    left: 96px;
+    z-index: 3;
+    content: icon;
+}
