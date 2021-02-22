@@ -467,3 +467,38 @@ body{
     z-index: 3;
     content: icon;
 }
+
+
+.Snack{
+    position: absolute;
+    width: 170px; 
+     height: 100px;
+     background-color: transparent;
+     z-index: 2;
+     top: 695px;
+     left: 1006px ;
+}
+#snack1{
+    position:absolute;
+    left: -6px;
+    z-index: 3;
+    content: icon;
+}
+#snack2{
+    position:absolute;
+    left: 34px;
+    z-index: 3;
+    content: icon;
+}
+#snack3{  
+    position:absolute;
+    left: 74px;
+    z-index: 3;
+    content: icon;
+}
+#snack4{
+    position:absolute;
+    left: 115px;
+    z-index: 3;
+    content: icon;
+}
