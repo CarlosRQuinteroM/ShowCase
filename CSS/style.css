@@ -587,3 +587,56 @@ body{
     content: icon;
 }
 
+
+.Lechuga{
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    top: 800px;
+    left: 606px;
+}
+#lechuga1{
+    position:absolute;
+    top: 40px;
+    width: 60px;
+    left: 12px;
+    z-index: 1;
+    content: icon;
+}
+
+#lechuga2{
+    position:absolute;
+    top: 40px;
+    width: 60px;
+    left: 60px;
+    z-index: 1;
+    content: icon;
+}
+
+#lechuga3{
+    position:absolute;
+    top: 40px;
+    width: 60px;
+    left: 110px;
+    z-index: 1;
+    content: icon;
+}
+/* solo NUmero 4 y 5 pueden se utilizados  */
+#lechuga4{
+    position:absolute;
+    top: 10px;
+    width: 60px;
+    left: 90px;
+    z-index: 2;
+    content: icon;
+}
+
+
+#lechuga5{
+    position:absolute;
+    top: 10px;
+    width: 60px;
+    left: 40px;
+    z-index: 2;
+    content: icon;
+}
