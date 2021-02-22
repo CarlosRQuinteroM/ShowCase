@@ -150,3 +150,48 @@ body{
     z-index: 3;
     content: icon;
 }
+.Soda{
+    position: absolute;
+    width: 160px; 
+     height: 100px;
+     background-color: transparent;
+     z-index: 2;
+     top: 435px;
+     left: 930px ;
+}
+#soda1{
+    position:absolute;
+    left: -1px;
+    z-index: 3;
+    content: icon;
+}
+#soda2{
+    position:absolute;
+    left: 8px;
+    z-index: 3;
+    content: icon;
+}
+#soda3{  
+    position:absolute;
+    left: 60px;
+    z-index: 3;
+    content: icon;
+}
+#soda4{
+    position:absolute;
+    left: 80px;
+    z-index: 3;
+    content: icon;
+}
+#soda5{
+    position:absolute;
+    left: 90px;
+    z-index: 3;
+    content: icon;
+}
+#soda5{
+    position:absolute;
+    left: 106px;
+    z-index: 3;
+    content: icon;
+}
