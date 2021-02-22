@@ -10,6 +10,16 @@ body{
 #showcase{
      height: 750px;
     display: block;
+    position: absolute;
     margin: auto;
     padding-top: 6%;
+    padding-left: 10%;
 }
+#carrito{
+    position: absolute;
+    height: 480px;
+    display: block;
+    margin: auto;
+    margin-top: 25%;
+    margin-left: 50%;
+    }
