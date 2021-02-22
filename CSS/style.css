@@ -282,3 +282,49 @@ body{
     content: icon;
 }
 
+.Agua{
+    position: absolute;
+    width: 180px; 
+     height: 100px;
+     background-color: transparent;
+     z-index: 2;
+     top: 569px;
+     left: 820px ;
+}
+#agua1{
+    position:absolute;
+    left: -10px;
+    z-index: 3;
+    content: icon;
+}
+#agua2{
+    position:absolute;
+    left: 20px;
+    z-index: 3;
+    content: icon;
+}
+#agua3{  
+    position:absolute;
+    left: 45px;
+    z-index: 3;
+    content: icon;
+}
+#agua4{
+    position:absolute;
+    left: 70px;
+    z-index: 3;
+    content: icon;
+}
+#agua5{
+    position:absolute;
+    left: 100px;
+    z-index: 3;
+    content: icon;
+}
+#agua6{
+    position:absolute;
+    left: 126px;
+    z-index: 3;
+    content: icon;
+}
+
