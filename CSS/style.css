@@ -12,8 +12,8 @@ body{
     display: block;
     position: absolute;
     margin: auto;
-    padding-top: 6%;
-    padding-left: 10%;
+    top: 10%;
+    left: 11%;
     z-index: 1;
 }
 #carrito{
@@ -21,7 +21,7 @@ body{
     height: 480px;
     display: block;
     margin: auto;
-    margin-top: 25%;
-    margin-left: 50%;
-    z-index: 2;
+    top: 45%;
+    left: 50%;
+    z-index: 3;
     }
