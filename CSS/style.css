@@ -152,7 +152,7 @@ body{
 }
 .Soda{
     position: absolute;
-    width: 160px; 
+    width: 220px; 
      height: 100px;
      background-color: transparent;
      z-index: 2;
@@ -161,29 +161,23 @@ body{
 }
 #soda1{
     position:absolute;
-    left: -1px;
+    left: -10px;
     z-index: 3;
     content: icon;
 }
 #soda2{
     position:absolute;
-    left: 8px;
+    left: 20px;
     z-index: 3;
     content: icon;
 }
 #soda3{  
     position:absolute;
-    left: 60px;
+    left: 55px;
     z-index: 3;
     content: icon;
 }
 #soda4{
-    position:absolute;
-    left: 80px;
-    z-index: 3;
-    content: icon;
-}
-#soda5{
     position:absolute;
     left: 90px;
     z-index: 3;
@@ -191,7 +185,59 @@ body{
 }
 #soda5{
     position:absolute;
-    left: 106px;
+    left: 122px;
+    z-index: 3;
+    content: icon;
+}
+#soda6{
+    position:absolute;
+    left: 156px;
+    z-index: 3;
+    content: icon;
+}
+
+.SodaLima{
+    position: absolute;
+    width: 220px; 
+     height: 100px;
+     background-color: transparent;
+     z-index: 2;
+     top: 569px;
+     left: 420px ;
+}
+#sodaLima1{
+    position:absolute;
+    left: -10px;
+    z-index: 3;
+    content: icon;
+}
+#sodaLima2{
+    position:absolute;
+    left: 20px;
+    z-index: 3;
+    content: icon;
+}
+#sodaLima3{  
+    position:absolute;
+    left: 55px;
+    z-index: 3;
+    content: icon;
+}
+#sodaLima4{
+    position:absolute;
+    left: 90px;
+    z-index: 3;
+    content: icon;
+}
+#sodaLima5{
+    position:absolute;
+    left: 122px;
+    z-index: 3;
+    content: icon;
+}
+#sodaLima6{
+    position:absolute;
+    left: 156px;
     z-index: 3;
     content: icon;
 }
