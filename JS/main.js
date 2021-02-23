@@ -24,19 +24,19 @@ var total = 0
 let dataBase = {
     leche : 2 ,
     pasta: 1,
-    queso: 3.5,
-    soda: 0.40,
+    queso: 3,
+    soda: 0.50,
     sodaLima: 0.50,
     mermelada: 3,
     agua:1,
     chips: 1.5,
     chocolate: 2,
-    pan: 0.90,
-    zumoNaranja:1.20,
+    pan: 1,
+    zumoNaranja:1.50,
     snack:2,
-    tomato:0.90,
+    tomato:1.50,
     lechuga:1,
     berenjena:1,
-    platano:1.40
+    platano:1.50
 }
 

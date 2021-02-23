@@ -8,18 +8,22 @@ body{
 }
 #contenedorCarrito{
     position: absolute;
-    width:230px;
+    width:280px;
     height: 220px;
-    top: 780px;
+    top: 690px;
     left: 1280px;
     z-index: 2;
+    
 
 }
 #sumaDePrecios{
     position: absolute;
-    top: 388px;
+    top: 358px;
     left: 1480px;
     z-index: 1;
+    font-family: "Ink Free", Times, serif;
+    font-size: 50px;
+    
 }
 #Titulo{
     position: absolute;
@@ -32,7 +36,7 @@ body{
 
 #showcase{
      height: 750px;
-    display: block;
+    display: center;
     position: absolute;
     top: 290px;
     left: 400px;
