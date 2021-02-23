@@ -13,8 +13,8 @@ function drop(ev) {
     var data = ev.dataTransfer.getData("text");
     var tipo = data.toLowerCase()
     ev.target.appendChild(document.getElementById(data));
-    const priceTag = document.getElementById('sumaDePrecios')
-    priceTag.innerHTML = '€' + total
+    const priceTag = document.getElementById('sumaDePrecios');
+    priceTag.innerHTML = '€' + total;
    
 }
 
