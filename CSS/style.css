@@ -6,6 +6,21 @@ body{
     background-size: cover;
     
 }
+#contenedorCarrito{
+    position: absolute;
+    width:230px;
+    height: 220px;
+    top: 780px;
+    left: 1280px;
+    z-index: 2;
+
+}
+#sumaDePrecios{
+    position: absolute;
+    top: 388px;
+    left: 1480px;
+    z-index: 1;
+}
 #Titulo{
     position: absolute;
     top: 220px;
@@ -31,26 +46,32 @@ body{
     left: 1150px;
     z-index: 2;
     }
+.compra{
+    cursor:grab;
 
+    }
+.compra:hover{
+    transform: scale(1.2);
+}
 .milk{
     position: absolute;
     width: 150px; 
      height: 100px;
      background-color: transparent;
-     z-index: 2;
      top: 435px;
      left: 430px;
 }
+
 #MILK1{
   position:absolute;
   left: -10px;
-  z-index: 3;
+  z-index: 1;
   content: icon;
 }
 #MILK2{
     position:absolute;
     left: 30px;
-    z-index: 3;
+    z-index: 2;
     content: icon;
   }
 #MILK3{
