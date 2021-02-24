@@ -18,6 +18,7 @@ function drop(ev) {
    
 }
 
+
 var total = 0
 
 
@@ -38,5 +39,15 @@ let dataBase = {
     lechuga:1,
     berenjena:1,
     platano:1.50
+}
+
+function funcion_reiniciar() {
+     var parent = document.getElementById('sumaDePrecios').parentNode
+     parent.removeChild(document.getElementById('sumaDePrecios'));
+
+     var shoppingCart = document.getElementsById('contenedorCarrito')
+     shoppingCart.innerHTML()
+
+ 
 }
 

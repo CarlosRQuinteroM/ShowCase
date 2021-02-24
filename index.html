@@ -15,6 +15,8 @@
                  <img src="./img/Showcase.png" id="showcase" alt="" draggable="false">
                  <img src="./img/carrito (1).png" id="carrito" alt="" draggable="false">
                  
+
+                 
               </div>
 
 
@@ -22,6 +24,8 @@
               <div class="container-md" ondragstart="drag(event)" ondrop="drop(event)" ondragover="allowDrop(event)">
                   <h1 id="Titulo">C.R.Q.M MARKET</h1>
 
+                  <!-- <input type="reset" value="reset" id="reset" onclick="funcion_reiniciar();"> -->
+                  <button type="reset" value="reset" id="reset" onclick="funcion_reiniciar();"> Cancelar Compra </button>
                 <div class="row row-cols-4 row-cols-lg-4 g-4 g-lg-4">
                   <div class="col" >
                     <div  class="p-4 milk" draggable="true" >
@@ -196,14 +200,17 @@
 
 
               <div class="container-sm" id="contenedorCarrito" ondrop="drop(event)" ondragover="allowDrop(event, this)" ondrop="getID(this, ev)" >
+                
+                
               
               </div>
 
               <div class="container-sm" id="sumaDePrecios">
-                <p id='total'></p>
+                
+               
 
               </div>
-
+              
 
 
 

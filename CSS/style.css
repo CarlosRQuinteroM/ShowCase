@@ -52,8 +52,27 @@ body{
     }
 .compra{
     cursor:grab;
-
     }
+#reset{
+    position:absolute;
+    top: 430px;
+    left:1310px;
+    width: 400px;
+    height: 60px;
+    border: transparent;
+    border-radius: 1pc;
+    background-color: rgb(170, 64, 64);
+    color: rgb(245, 245, 245);
+    text-align: center;
+    display: inline-block;
+    font-size: 40px;
+    z-index: 1;
+    font-family: "Ink Free", Times, serif;
+    
+}
+#reset:hover{
+    transform: scale(1.1);
+}
 .compra:hover{
     transform: scale(1.2);
 }
